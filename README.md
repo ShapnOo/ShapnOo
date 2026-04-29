@@ -153,7 +153,6 @@ PROFILE:
 
 ## Swallowing My Commits
 
-> ⚠️ **One-time setup required:** Go to your `ShapnOo/ShapnOo` repo → Actions → **Generate Snake Animation** → Run workflow. After that, the snake will appear here automatically.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShapnOo/ShapnOo/output/github-contribution-grid-snake-dark.svg">
