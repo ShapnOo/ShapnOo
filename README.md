@@ -1,66 +1,81 @@
-<!-- ================= HEADER ================= -->
+# <p align="center">👋 Hi, I'm Tahmid Afsar Shapno</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Tahmid+Afsar+Shapno;Project+Manager+%7C+ERP+%7C+GovTech;Building+Scalable+Software+Solutions;Turning+Ideas+Into+Real+Products" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2C2E&height=200&section=header&text=Project%20Manager&fontSize=50&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-<h3 align="center">🚀 Project Manager | ERP | GovTech | Business Automation</h3>
+<p align="center">
+  🚀 <b>Project Manager | ERP Architect | GovTech Enthusiast | Business Automation Specialist</b>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Bangladesh-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Enterprise%20Systems-00C2FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack-Full%20Stack%20+%20PM-6A5ACD?style=for-the-badge" />
+  📍 Dhaka, Bangladesh
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shapno.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<!-- ================= ABOUT ================= -->
+### 💼 Professional Synopsis
 
-## 💼 About Me
+I specialize in leading high-stakes enterprise software projects from conceptualization to full-scale deployment. My mission is to bridge the gap between complex business requirements and cutting-edge technical solutions, ensuring every line of code serves a strategic purpose.
 
-```diff
-+ I turn complex business problems into scalable software solutions
-+ Leading ERP, IoT & GovTech projects end-to-end
-+ Managing teams, timelines, and real-world impact
-<!-- ================= TECH STACK ================= -->
-🛠 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,html,css,tailwind" /> </p>
-<!-- ================= PROJECTS ================= -->
-🚀 Featured Projects
-🔹 Pakiza Fleet Pro
-System: Vehicle Management
-Features:
-  - Vehicle Tracking
-  - Rent & Loan Management
-  - Maintenance & Fuel Monitoring
-🔹 CWASA Meter Management System
-System: IoT Smart Meter Platform
-Modules:
-  - Consumer Mobile App
-  - Service Personnel App
-  - Admin Dashboard
-🔹 JobLyfe Platform
-System: Job + Freelance Marketplace
-Core Features:
-  - Job Posting & Hiring
-  - Freelancer Marketplace
-  - Group-Based Hiring
-<!-- ================= CURRENT FOCUS ================= -->
-📊 Current Focus
-> Scaling ERP systems for enterprise use
-> Automating business workflows
-> Building data-driven decision systems
-<!-- ================= STATS ================= -->
-📈 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </p>
-<!-- ================= CONNECT ================= -->
-🌐 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/your-link"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:shapno.official@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
-<!-- ================= FUN ================= -->
-⚡ Fun Fact
-const tahmid = {
-  role: "Project Manager",
-  approach: "Execution > Excuses",
-  mission: "Build systems that actually solve problems"
-};
-<!-- ================= FOOTER ================= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00F7FF&height=100&section=footer"/> </p> ```
+- **🔭 Strategic Leadership:** Driving ERP, IoT, and large-scale automation systems.
+- **👥 Team Synergy:** Expertly managing cross-functional squads (Web, Mobile, DevOps, Backend).
+- **📊 Precision Delivery:** Mastering stakeholder communication and agile execution for high-impact results.
+
+---
+
+### 🛠 Tech Ecosystem
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,html,css,tailwind,nodejs,express,mongodb,mysql,firebase,docker,github,postman,figma" />
+</p>
+
+---
+
+### 🚀 High-Impact Projects
+
+<div align="center">
+
+| Project | Domain | Key Features |
+| :--- | :--- | :--- |
+| **🔹 Pakiza Fleet Pro** | **Vehicle Logistics** | Real-time tracking, Rent/Loan automation, Fuel & Maintenance intelligence. |
+| **🔹 CWASA Smart Meter** | **IoT & GovTech** | Integrated water management, Consumer mobile apps, Real-time telemetry. |
+| **🔹 JobLyfe Ecosystem** | **HR Tech** | Advanced hiring marketplace, Group-based recruitment, Freelance gateway. |
+
+</div>
+
+---
+
+### 📊 Engineering & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### ⚡ Professional Pulse
+
+- **Current Obsession:** Scaling cloud-native ERP architectures.
+- **Architecture Goal:** Building self-healing automation tools for 100% operational efficiency.
+- **Philosophy:** I don’t just manage projects — I architect solutions that eliminate business friction.
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <i>"Delivering measurable results through structured execution and clear communication."</i>
+</p>
