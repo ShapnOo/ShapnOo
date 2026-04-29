@@ -17,7 +17,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⚙️ System Identity
+## System Identity
 
 ```yaml
 PROFILE:
@@ -34,7 +34,7 @@ PROFILE:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠 Technology Arsenal
+## What I Build With
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,ts,nodejs,express,py&perline=7" /><br/><br/>
@@ -42,9 +42,7 @@ PROFILE:
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,androidstudio,notion&perline=7" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🚀 Notable Projects @ Pakiza Software Ltd
+## Notable Projects — Pakiza Software Ltd
 
 <table width="100%">
   <tr>
@@ -115,7 +113,7 @@ PROFILE:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏛 Notable Projects @ Pridesys IT Ltd
+## Notable Projects — Pridesys IT Ltd
 
 | Project | Client | Period | Role |
 |:---|:---|:---|:---|
@@ -131,7 +129,7 @@ PROFILE:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 Performance Telemetry
+## Performance Telemetry
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShapnOo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=389C9F&icon_color=389C9F&text_color=ffffff" width="49%" />
@@ -144,19 +142,28 @@ PROFILE:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 Commit Snake
+
+## Contribution Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShapnOo/ShapnOo/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShapnOo/ShapnOo/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ShapnOo/ShapnOo/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShapnOo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=389C9F&line=1F5458&point=389C9F&area=true" width="100%" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 Trophies
+## Swallowing My Commits
+
+> ⚠️ **One-time setup required:** Go to your `ShapnOo/ShapnOo` repo → Actions → **Generate Snake Animation** → Run workflow. After that, the snake will appear here automatically.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShapnOo/ShapnOo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShapnOo/ShapnOo/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ShapnOo/ShapnOo/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShapnOo&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
@@ -164,7 +171,7 @@ PROFILE:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📈 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShapnOo&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=389C9F&line=1F5458&point=389C9F" width="100%" />
@@ -172,24 +179,24 @@ PROFILE:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🧠 Leadership Architecture
+## Leadership Architecture
 
 <table width="100%">
   <tr>
     <td align="center" width="25%">
-      <h3>🎯 Precision</h3>
+      <h3>Precision</h3>
       Structured project execution with measurable KPIs and milestone-driven delivery frameworks.
     </td>
     <td align="center" width="25%">
-      <h3>🔗 Alignment</h3>
+      <h3>Alignment</h3>
       Bridging stakeholder vision with engineering squads for zero-gap communication.
     </td>
     <td align="center" width="25%">
-      <h3>📐 Design Thinking</h3>
+      <h3>Design Thinking</h3>
       Product design and UX strategy that puts the end-user experience at the center of every decision.
     </td>
     <td align="center" width="25%">
-      <h3>⚡ Impact</h3>
+      <h3>Impact</h3>
       Every technical decision tied to business outcomes creating measurable real-world value.
     </td>
   </tr>
