@@ -1,81 +1,85 @@
-# <p align="center">👋 Hi, I'm Tahmid Afsar Shapno</p>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2C2E&height=200&section=header&text=Project%20Manager&fontSize=50&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F2C2E&height=300&section=header&text=TAHMID%20AFSAR%20SHAPNO&fontSize=60&animation=fadeIn&fontColor=389C9F&desc=PROJECT%20MANAGER%20•%20ERP%20ARCHITECT%20•%20GOVTECH&descAlignVertical=65&descAlign=50" />
 </p>
 
 <p align="center">
-  🚀 <b>Project Manager | ERP Architect | GovTech Enthusiast | Business Automation Specialist</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=389C9F&center=true&vCenter=true&width=600&lines=EXECUTING+ENTERPRISE+VISION;ARCHITECTING+GOVTECH+SYSTEMS;MANAGING+HIGH-PERFORMANCE+SQUADS;AUTOMATING+BUSINESS+LOGIC" />
 </p>
 
 <p align="center">
-  📍 Dhaka, Bangladesh
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shapno.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/NETWORK-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shapno.official@gmail.com"><img src="https://img.shields.io/badge/COMMUNICATION-SECURE-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 💼 Professional Synopsis
+### 🌐 SYSTEM OVERVIEW
 
-I specialize in leading high-stakes enterprise software projects from conceptualization to full-scale deployment. My mission is to bridge the gap between complex business requirements and cutting-edge technical solutions, ensuring every line of code serves a strategic purpose.
-
-- **🔭 Strategic Leadership:** Driving ERP, IoT, and large-scale automation systems.
-- **👥 Team Synergy:** Expertly managing cross-functional squads (Web, Mobile, DevOps, Backend).
-- **📊 Precision Delivery:** Mastering stakeholder communication and agile execution for high-impact results.
+```json
+{
+  "profile": {
+    "identity": "Tahmid Afsar Shapno",
+    "specialization": ["ERP Architecture", "GovTech", "IoT Ecosystems"],
+    "location": "Dhaka, BD",
+    "status": "Architecting Enterprise Futures"
+  }
+}
+```
 
 ---
 
-### 🛠 Tech Ecosystem
+### 🛠 TECHNOLOGY STACK STABILITY
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,html,css,tailwind,nodejs,express,mongodb,mysql,firebase,docker,github,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,nodejs,express,mongodb,mysql,firebase,docker,github,postman,figma&theme=dark" />
 </p>
-
----
-
-### 🚀 High-Impact Projects
 
 <div align="center">
-
-| Project | Domain | Key Features |
-| :--- | :--- | :--- |
-| **🔹 Pakiza Fleet Pro** | **Vehicle Logistics** | Real-time tracking, Rent/Loan automation, Fuel & Maintenance intelligence. |
-| **🔹 CWASA Smart Meter** | **IoT & GovTech** | Integrated water management, Consumer mobile apps, Real-time telemetry. |
-| **🔹 JobLyfe Ecosystem** | **HR Tech** | Advanced hiring marketplace, Group-based recruitment, Freelance gateway. |
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dracula&hide_border=true&title_color=389C9F&icon_color=389C9F&text_color=ffffff&bg_color=0D2527" height="180" />
 </div>
 
 ---
 
-### 📊 Engineering & Activity
+### 🚀 MISSION CRITICAL DEPLOYMENTS
+
+<details open>
+<summary><b>[01] PAKIZA FLEET PRO | LOGISTICS ENGINE</b></summary>
+<blockquote>
+Advanced vehicle intelligence system featuring real-time telemetry, automated asset lifecycle management, and fuel efficiency neural-mapping.
+</blockquote>
+</details>
+
+<details>
+<summary><b>[02] CWASA SMART METER | UTILITY CLOUD</b></summary>
+<blockquote>
+Nation-scale IoT implementation for water resource management. Integrated real-time flow analytics with consumer-facing mobile ecosystems.
+</blockquote>
+</details>
+
+<details>
+<summary><b>[03] JOBLYFE | ECOSYSTEM MARKETPLACE</b></summary>
+<blockquote>
+High-density recruitment platform featuring automated matching algorithms and collaborative hiring clusters for enterprise human capital.
+</blockquote>
+</details>
+
+---
+
+### 📈 CORE PERFORMANCE TELEMETRY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula&hide_border=true&title_color=389C9F&icon_color=389C9F&text_color=ffffff&bg_color=0D2527&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dracula&hide_border=true&stroke=389C9F&ring=389C9F&fire=389C9F&sideNums=389C9F&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&bg_color=0D2527" width="48%" />
 </p>
 
 ---
 
-### ⚡ Professional Pulse
+### ⚡ ARCHITECTURAL PHILOSOPHY
 
-- **Current Obsession:** Scaling cloud-native ERP architectures.
-- **Architecture Goal:** Building self-healing automation tools for 100% operational efficiency.
-- **Philosophy:** I don’t just manage projects — I architect solutions that eliminate business friction.
+> *"I don't just manage codebases; I engineer sustainable business outcomes through structured execution and technological foresight."*
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <i>"Delivering measurable results through structured execution and clear communication."</i>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F2C2E&height=100&section=footer&text=INITIATING%20SYSTEM%20HANDSHAKE...&fontSize=20&fontColor=389C9F" />
 </p>
